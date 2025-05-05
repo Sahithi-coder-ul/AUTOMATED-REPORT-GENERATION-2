@@ -20,4 +20,7 @@ This task allowed me to enhance my skills in data processing and report automati
 
 This experience not only strengthened my Python programming abilities but also gave me practical exposure to generating business-ready reports automatically. It was a valuable learning experience in terms of scripting, PDF handling, and understanding real-world applications of automation.
 
+#output:
 
+
+![Image](https://github.com/user-attachments/assets/03aed1b2-d538-4d0a-a340-215278061825)
